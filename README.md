@@ -97,3 +97,26 @@ Built as a pair project for a university OOP course.
   - GitHub: https://github.com/sameer7075
 - Muhammad Subhan
   - GitHub: https://github.com/Denarzai
+
+## Team Responsibilities
+
+This project was developed collaboratively as a 2-person university OOP project.
+
+### Sameer Ahmed (Team Lead)
+- Designed overall system architecture and class hierarchy
+- Implemented RBAC (Role-Based Access Control) system and policy engine
+- Developed authentication system with role-based login validation
+- Implemented core task management system (creation, assignment, delegation, priority handling, TTL expiry)
+- Designed and implemented messaging system (PRIVATE, ALERT, INFO with encryption for private messages)
+- Built audit logging system and anomaly detection module
+- Handled file-based persistence and ensured data consistency across modules
+- Managed integration of all components and coordinated overall system flow
+
+### Muhammad Subhan
+- Contributed significantly to task management module implementation (status updates, filtering, and task handling logic)
+- Worked on notification system (INFO/WARNING/EMERGENCY generation and role-based delivery)
+- Assisted in messaging system features including inbox/outbox handling and validation logic
+- Participated in implementing authentication flow and user interaction menus
+- Supported development of audit log generation and system monitoring features
+- Actively involved in debugging, testing, and improving system stability
+- Contributed to documentation and refinement of feature behavior
