@@ -1,0 +1,51 @@
+# Build output binaries
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# Precompiled headers
+*.pch
+
+# CMake / generated build folders
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+Makefile
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.idb
+*.ipch/
+x64/
+x86/
+Debug/
+Release/
+
+# VS Code local settings
+.vscode/
+
+# Temporary and logs
+*.tmp
+*.temp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

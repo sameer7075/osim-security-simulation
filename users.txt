@@ -1,0 +1,7 @@
+sami|104943791496|Executive|5
+jun|3146067663|Junior|1
+man|3213484696|Manager|3
+emp|2995593322|Employee|2
+subhan|101391490856381|Manager|3
+temp|105946020318|Employee|2
+affaf|2762261786540|Employee|2

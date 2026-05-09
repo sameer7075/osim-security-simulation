@@ -1,0 +1,285 @@
+1746790195|sami|Executive|Attempted to create a user|Failed
+1746790242|sami|Executive|Attempted to create a user|Failed
+1746790285|sami|Executive|Created a user|Success
+1746791845|sami|Executive|Created a user|Success
+1746793543|sami|Executive|Authenticated|Success
+1746793656|sami|Executive|Authenticated|Success
+1746811160|sami|Executive|Authenticated|Success
+1746811347|sami|Executive|Created a task|Success
+1746811790|sami|Executive|Changed task status|Success
+1746812009|sami|Executive|Changed task status|Success
+1746813895|sami|Executive|Authenticated|Success
+1746814228|sami|Executive|Authenticated|Success
+1746814422|sami|Executive|Authenticated|Success
+1746814484|sami|Executive|Authenticated|Success
+1746814555|smai|Executive|Attempted to authenticate|Failed
+1746814564|sami|Executive|Authenticated|Success
+1746815278|sami|Executive|Attempted to complete a task|Failed
+1746816326|sami|Executive|Authenticated|Success
+1746817223|sami|Executive|Authenticated|Success
+1746817295|saim|Executive|Attempted to authenticate|Failed
+1746817300|sami|Executive|Authenticated|Success
+1746821479|sami|Executive|Authenticated|Success
+1746821622|sami|Executive|Authenticated|Success
+1746821990|sami|Executive|Authenticated|Success
+1746822021|sami|Executive|Sent a notification|Success
+1746822135|sami|Executive|Authenticated|Success
+1746822986|sami|Executive|Authenticated|Success
+1746823027|sami|Executive|Deleted a notification|Success
+1746857908|sami|Executive|Authenticated|Success
+1746857971|sami|Executive|Created a task|Success
+1746858300|sami|Executive|Authenticated|Success
+1746861136|sami|Executive|Authenticated|Success
+1746866316|sami|Executive|Authenticated|Success
+1746866338|sami|Executive|Created a task|Success
+1746868476|sami|Executive|Authenticated|Success
+1746868500|sami|Executive|Created a task|Success
+1746868568|sami|Executive|Authenticated|Success
+1746868878|sami|Executive|Authenticated|Success
+1746869544|sami|Executive|Authenticated|Success
+1746869770|sami|Executive|Authenticated|Success
+1746869846|sami|Executive|Deleted a task|Success
+1746869882|sami|Executive|Created a task|Success
+1746870063|sami|Executive|Authenticated|Success
+1746870085|sami|Executive|Created a task|Success
+1746870267|smi|Executive|Attempted to authenticate|Failed
+1746870274|sami|Executive|Authenticated|Success
+1746870282|sami|Executive|Created a task|Success
+1746871171|sami|Executive|Authenticated|Success
+1746871213|sami|Executive|Authenticated|Success
+1746871486|sami|Executive|Authenticated|Success
+1746871655|sami|Executive|Sent a notification|Success
+1746871787|sami|Executive|Deleted a notification|Success
+1746871806|sami|Executive|Sent a notification|Success
+1746872116|sami|Executive|Authenticated|Success
+1746872142|sami|Executive|Sent a notification|Success
+1746872155|sami|Executive|Deleted a notification|Success
+1746874050|sami|Executive|Authenticated|Success
+1746874119|sami|Executive|Authenticated|Success
+1746874781|sami|Executive|Authenticated|Success
+1746874822|sami|Executive|Attempted to broadcast an info message|Failed
+1746876129|sami|Executive|Attempted to authenticate|Failed
+1746876135|sami|Executive|Authenticated|Success
+1746876245|sami|Executive|Authenticated|Success
+1746876299|sami|Executive|Authenticated|Success
+1746876318|sami|Executive|Attempted to broadcast an info message|Failed
+1746876411|sami|Executive|Authenticated|Success
+1746883085|sami|Executive|Authenticated|Success
+1746883167|sami|Executive|Authenticated|Success
+1746883206|sami|Executive|Authenticated|Success
+1746883272|sami|Executive|Authenticated|Success
+1746883303|sami|Executive|Created a user|Success
+1746883319|sami|Executive|Created a user|Success
+1746883332|sami|Executive|Created a user|Success
+1746883859|sami|Executive|Attempted to authenticate|Failed
+1746883965|sami|Executive|Attempted to authenticate|Failed
+1746884067|sami|Executive|Authenticated|Success
+1746884298|sami|Executive|Authenticated|Success
+1746884322|sami|Executive|Created a user|Success
+1746884336|sami|Executive|Created a user|Success
+1746884351|sami|Executive|Created a user|Success
+1746884364|sami|Executive|Created a user|Success
+1746885013|sami|Executive|Attempted to authenticate|Failed
+1746885045|sami|Executive|Attempted to authenticate|Failed
+1746885060|sami|Executive|Attempted to authenticate|Failed
+1746885138|sami|Executive|Authenticated|Success
+1746885214|sami|Executive|Authenticated|Success
+1746885790|sami|Executive|Authenticated|Success
+1746885924|sami|Executive|Authenticated|Success
+1746885930|sami|Executive|Removed a user|Success
+1746886032|sami|Executive|Authenticated|Success
+1746886040|sami|Executive|Removed a user|Success
+1746887016|sami|Executive|Authenticated|Success
+1746887039|sami|Executive|Removed a user|Success
+1746887282|sami|Executive|Authenticated|Success
+1746890557|sami|Executive|Authenticated|Success
+1746890578|sami|Executive|Removed a user|Success
+1746890680|sami|Executive|Removed a user|Success
+1746890766|sami|Executive|Authenticated|Success
+1746890772|sami|Executive|Removed a user|Success
+1746890819|sami|Executive|Removed a user|Success
+1746890846|sami|Executive|Created a user|Success
+1746890887|sami|Executive|Sent an alert message|Success
+1746890902|sami|Executive|Sent an alert message|Success
+1746890936|sami|Executive|Broadcasted an info message|Success
+1746890951|jun|Junior|Authenticated|Success
+1746890975|jun|Junior|Attempted to create a user|Failed
+1746890977|jun|Junior|Attempted to remove a user|Failed
+1746891583|sami|Executive|Authenticated|Success
+1746892417|jun|Junior|Authenticated|Success
+1746892977|sami|Executive|Authenticated|Success
+1746893625|jun|Junior|Authenticated|Success
+1746893642|jun|Junior|Attempted to broadcast an info message|Failed
+1746893717|jun|Junior|Sent an alert message|Success
+1746893763|sami|Executive|Authenticated|Success
+1746893805|sami|Executive|Authenticated|Success
+1746894250|jun|Junior|Authenticated|Success
+1746894267|sami|Executive|Authenticated|Success
+1746894290|sami|Executive|Sent an alert message|Success
+1746894299|sami|Executive|Authenticated|Success
+1746894416|sami|Executive|Authenticated|Success
+1746894440|sami|Executive|Created a user|Success
+1746894476|sami|Executive|Broadcasted an info message|Success
+1746894476|sami|Executive|Broadcasted an info message|Success
+1746894506|man|Manager|Authenticated|Success
+1746894917|man|Manager|Authenticated|Success
+1746895018|man|Manager|Authenticated|Success
+1746895036|man|Manager|Sent a private message|Success
+1746895153|sami|Executive|Authenticated|Success
+1746895671|jun|Junior|Authenticated|Success
+1746895684|jun|Junior|Sent a private message|Success
+1746895703|jun|Junior|Attempted to broadcast an info message|Failed
+1746895709|jun|Junior|Attempted to broadcast an info message|Failed
+1746895726|sami|Executive|Authenticated|Success
+1746895768|sami|Executive|Broadcasted an info message|Success
+1746895768|sami|Executive|Broadcasted an info message|Success
+1746895790|sami|Executive|Sent a private message|Success
+1746895807|subham|Manager|Attempted to authenticate|Failed
+1746895814|subhan|Manager|Attempted to authenticate|Failed
+1746895856|man|Manager|Authenticated|Success
+1746895871|man|Manager|Attempted to create a user|Failed
+1746895875|man|Manager|Attempted to remove a user|Failed
+1746895898|subhan|Manager|Attempted to authenticate|Failed
+1746895915|sami|Executive|Authenticated|Success
+1746895926|sami|Executive|Created a user|Success
+1746895962|subhan|Manager|Attempted to authenticate|Failed
+1746896276|subhan|Manager|Attempted to authenticate|Failed
+1746897961|emp|Employee|Authenticated|Success
+1746898000|subhan|Manager|Attempted to authenticate|Failed
+1746898020|sami|Executive|Authenticated|Success
+1746898027|sami|Executive|Attempted to create a user|Failed
+1746898044|sami|Executive|Created a user|Success
+1746898061|subhan|Manager|Attempted to authenticate|Failed
+1746898073|sami|Executive|Authenticated|Success
+1746898082|sami|Executive|Created a user|Success
+1746898095|sameer|Manager|Attempted to authenticate|Failed
+1746898396|sameer|Manager|Attempted to authenticate|Failed
+1746898452|sameer|Manager|Attempted to authenticate|Failed
+1746901901|subhan|Manager|Authenticated|Success
+1746901909|sami|Executive|Authenticated|Success
+1746901930|man|Manager|Attempted to authenticate|Failed
+1746902002|emp|Employee|Authenticated|Success
+1746902008|man|Manager|Authenticated|Success
+1746902015|jun|Junior|Authenticated|Success
+1746902024|sam|Executive|Attempted to authenticate|Failed
+1746902038|sami|Executive|Authenticated|Success
+1746902550|subhan|Manager|Authenticated|Success
+1746902568|man|Manager|Authenticated|Success
+1746902581|sami|Executive|Authenticated|Success
+1746902593|sami|Executive|Created a user|Success
+1746902621|sami|Executive|Sent an alert message|Success
+1746902649|sameer|Manager|Authenticated|Success
+1746902742|sami|Executive|Attempted to authenticate|Failed
+1746902846|sami|Executive|Authenticated|Success
+1746902864|sami|Executive|Created a user|Success
+1746903007|sami|Executive|Authenticated|Success
+1746903018|sami|Executive|Created a user|Success
+1746903048|sami|Executive|Authenticated|Success
+1746903417|sami|Executive|Created a task|Success
+1746903470|sami|Executive|Deleted a task|Success
+1746903586|ss|Manager|Attempted to authenticate|Failed
+1746903598|subhan|Manager|Authenticated|Success
+1746903618|subhan|Manager|Created a task|Success
+1746904436|subhan|Manager|Authenticated|Success
+1746904454|subhan|Manager|Deleted a task|Success
+1746904535|subhan|Manager|Attempted to complete a task|Failed
+1746904569|subhan|Manager|Attempted to change task status|Failed
+1746906926|subhan|Manager|Authenticated|Success
+1746907015|subhan|Manager|Changed task status|Success
+1746907089|subhan|Manager|Completed a task|Success
+1746907108|subhan|Manager|Attempted to delete a task|Failed
+1746907121|subhan|Manager|Attempted to assign a completed task|Failed
+1746907141|subhan|Manager|Attempted to change task status|Failed
+1746907160|subhan|Manager|Delegated a task|Success
+1746907239|subhan|Manager|Attempted to view a performance report|Failed
+1746907278|subhan|Manager|Sent a private message|Success
+1746907617|subhan|Manager|Authenticated|Success
+1746907632|sami|Executive|Authenticated|Success
+1746907665|sami|Executive|Deleted a task|Success
+1746907692|sami|Executive|Created a task|Success
+1746907710|sami|Executive|Created a task|Success
+1746907767|sami|Executive|Assigned a task|Success
+1746907813|subhan|Manager|Authenticated|Success
+1746907827|subhan|Manager|Completed a task|Success
+1746907831|subhan|Manager|Completed a task|Success
+1746908388|subhan|Manager|Authenticated|Success
+1746908510|subhan|Manager|Changed password|Success
+1746908695|subhan|Manager|Authenticated|Success
+1746908706|subhan|Manager|Attempted to create a user|Failed
+1746908708|subhan|Manager|Attempted to remove a user|Failed
+1746908720|subhan|Manager|Changed password|Failed
+1746908727|subhan|Manager|Changed password|Failed
+1746908796|sub|Executive|Attempted to authenticate|Failed
+1746908801|subhan|Manager|Authenticated|Success
+1746908821|subhan|Manager|Changed password|Success
+1746908917|subhan|Manager|Attempted to authenticate|Failed
+1746908928|subhan|Manager|Authenticated|Success
+1746908943|subhan|Manager|Changed password|Success
+1746908957|subhan|Manager|Authenticated|Success
+1746909031|subhan|Manager|Authenticated|Failed
+1746909044|subhan|Manager|Authenticated|Success
+1746909091|sami|Executive|Authenticated|Success
+1746910558|sami|Executive|Authenticated|Success
+1746953412|sami|Executive|Authenticated|Success
+1746953444|sami|Executive|Authenticated|Failed
+1746953448|sami|Executive|Authenticated|Failed
+1746953457|sami|Executive|Authenticated|Failed
+1746953460|ss|Executive|Authenticated|Failed
+1746953463|ss|Executive|Authenticated|Failed
+1746953466|ss|Executive|Authenticated|Failed
+1746953469|ss|Executive|Authenticated|Failed
+1746953474|sami|Executive|Authenticated|Failed
+1746953481|sami|Executive|Authenticated|Success
+1746953546|sami|Executive|Authenticated|Success
+1746954239|sami|Executive|Authenticated|Failed
+1746954242|sami|Executive|Authenticated|Failed
+1746954244|sami|Executive|Authenticated|Failed
+1746954248|sami|Executive|Authenticated|Failed
+1746954252|sami|Executive|Authenticated|Failed
+1746954255|sami|Executive|Authenticated|Failed
+1746954258|sami|Executive|Authenticated|Success
+1746955204|subhan|Manager|Authenticated|Success
+1746955214|subhan|Manager|Changed password|Success
+1746955225|sami|Executive|Authenticated|Success
+1746955232|man|Manager|Authenticated|Success
+1746955238|subhan|Manager|Authenticated|Failed
+1746955250|subhan|Manager|Authenticated|Success
+1746955275|sami|Executive|Authenticated|Success
+1746955337|subhan|Manager|Authenticated|Success
+1746955347|subhan|Manager|Changed password|Success
+1746955367|sami|Executive|Authenticated|Success
+1746955373|sami|Executive|Authenticated|Failed
+1746955377|sam|Executive|Authenticated|Failed
+1746955384|sami|Executive|Authenticated|Failed
+1746955388|sami|Executive|Authenticated|Failed
+1746955392|sami|Executive|Authenticated|Success
+1746955431|subhan|Manager|Authenticated|Success
+1746955815|sami|Executive|Authenticated|Success
+1746955824|subhan|Manager|Authenticated|Success
+1746955843|subhan|Manager|Attempted to create a user|Failed
+1746955844|subhan|Manager|Attempted to remove a user|Failed
+1746956293|sami|Executive|Authenticated|Success
+1746956632|sami|Executive|Authenticated|Success
+1746956685|sami|Executive|Authenticated|Success
+1746956951|sami|Executive|Authenticated|Success
+1746957405|sami|Executive|Authenticated|Success
+1746957843|sami|Executive|Broadcasted an info message|Success
+1746957843|sami|Executive|Broadcasted an info message|Success
+1746957843|sami|Executive|Broadcasted an info message|Success
+1746957843|sami|Executive|Broadcasted an info message|Success
+1746957843|sami|Executive|Broadcasted an info message|Success
+1746957974|sami|Executive|Sent a notification|Success
+1746961501|sami|Executive|Authenticated|Success
+1746963088|sami|Executive|Changed task status|Success
+1746963127|sami|Executive|Assigned a task|Success
+1746963441|sami|Executive|Authenticated|Success
+1746963573|sami|Executive|Authenticated|Success
+1746963589|sami|Executive|Authenticated|Success
+1746965994|sami|Executive|Authenticated|Success
+1746968000|sami|Executive|Authenticated|Success
+1746968397|sami|Executive|Authenticated|Success
+1746976801|sami|Executive|Authenticated|Failed
+1746987512|sami|Executive|Authenticated|Success
+1746988678|sami|Executive|Authenticated|Success
+1746988702|sami|Executive|Created a user|Success
+1746988713|affaf|Employee|Authenticated|Success

@@ -1,0 +1,4 @@
+sami Executive 0 0 15 4 1 10 0 0
+jun Junior 0 0 2 1 1 0 0 0
+man Manager 0 0 1 0 1 0 0 0
+subhan Manager 2 0 1 0 1 0 128 256

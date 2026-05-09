@@ -1,0 +1,11 @@
+1|jun|sami|PRIVATE|3R _JaT R^Xa SaZ|1746895684
+2|sami|man|INFO|Hello Managers. This is a Broadcast to all Managers!!|1746895768
+3|sami|subhan|INFO|Hello Managers. This is a Broadcast to all Managers!!|1746895768
+4|sami|subhan|PRIVATE|3R _^VSJZ ]\T\ U\ L \^RjL]Q VY^\MSN Q[[Y gLVU|1746895790
+5|sami|sameer|ALERT|test alert:)|1746902621
+6|subhan|sami|PRIVATE|4 PQUYRJ`QM L `M\_ ][ bc`|1746907278
+7|sami|jun|INFO|dss|1746957843
+8|sami|man|INFO|dss|1746957843
+9|sami|emp|INFO|dss|1746957843
+10|sami|subhan|INFO|dss|1746957843
+11|sami|temp|INFO|dss|1746957843
